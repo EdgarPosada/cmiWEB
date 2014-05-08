@@ -1,0 +1,112 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/05/2014, 10:34:46 AM
+    Author     : Edgar
+*/
+
+fieldset{
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    margin-top: 30px;
+    border: 3px solid #656565;
+}
+
+fieldset label{
+    font-family: Arial, Helvetica, sans-serif;
+    font: 16px cursive, sans-serif;
+}
+
+fieldset input{
+    border-radius: 5px;
+}
+
+#cantidad{
+    width: 60px;
+}
+
+#lblUnit{
+    padding-left: 10px;
+    padding-right: 10px;    
+}
+
+#lblCant{
+    padding-right: 10px;
+}
+
+#lblCon{
+    float: left;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+#txtAcon{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#lblImp{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+//Fieldset de datos del cliente
+.fielCliente{
+    
+}
+
+.fielCliente label{
+    padding-left: 20px;
+}
+
+#lblRfC{
+    padding-right: 68px;
+}
+
+#lblNombre{
+    padding-top: 0px;
+}
+
+#rfcCliente{
+    width: 300px;
+}
+
+#nombreCliente{
+    width: 60%; 
+}
+
+#lblCalle{
+    padding-right: 58px;
+}
+
+#calleCLiente{
+    width: 40%;
+    
+}
+
+#lblColonia{
+    padding-right: 42px;
+}
+
+#coloniaCliente{
+    width: 40%
+}
+
+#lblLocalidad{
+    padding-left: 7px;
+}
+
+#lblMunicipio{
+    padding-right: 6px;
+}
+
+#municipioCliente{
+    width: 270px;
+}
+
+
